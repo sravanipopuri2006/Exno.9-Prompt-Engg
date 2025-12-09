@@ -1,7 +1,7 @@
 # Ex.No.9 – Exploration of Prompting Techniques for Video Generation using AI Models
 
 ## Date:
-## Register No.: 212223240075
+## Register No.: 212223240117
 
 
 
